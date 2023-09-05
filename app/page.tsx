@@ -41,15 +41,13 @@ export default function Home() {
         <p className='text-2xl font-bold text-center'>Aqui é o Paulo meu truta!!</p>
         <p className='text-2xl font-bold text-center'>Aqui é o Paulo meu truta!!</p>
       </div>
-      {/* <Image
+       <Image
         src={"https://imagens.mdig.com.br/thbs/45184mn.jpg"}
         width={"500"} 
         height={"200"}
         alt=""
-      />  */}
-      <img className="h-[100%]" alt=""  loading="lazy"  decoding="async"  data-nimg="1"  srcSet="https://imagens.mdig.com.br/thbs/45184mn.jpg"
-      src="https://imagens.mdig.com.br/thbs/45184mn.jpg"
-      width="500" height="200"/>
+      />  
+     
     </div>
    </section>
   </main>
